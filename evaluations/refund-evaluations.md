@@ -25,6 +25,13 @@ Once you share your order number (or receipt details), I can help you with the n
 - Lack of empathy
 - The refund policy is too vague
 - No explanation of the refund process
+
+## Score
+Accuracy: 4/5
+Completeness: 3/5
+Empathy: 3/5
+Overall: /5
+
 ## Improvement
 prompts should show more empathy, appreciation for contacting support and explain the refund process 
 
