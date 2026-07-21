@@ -27,3 +27,9 @@ Once you share your order number (or receipt details), I can help you with the n
 - No explanation of the refund process
 ## Improvement
 prompts should show more empathy, appreciation for contacting support and explain the refund process 
+
+Version 2 performs better because it:
+- asks for order number
+- explains refund timeline
+- shows empathy
+- appreciation customer for contacting
