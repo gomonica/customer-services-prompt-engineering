@@ -7,7 +7,7 @@ This repository contains prompt engineering examples for customer service in var
 ## Scenarios
 - FAQ
 - Refund Request
-- Shipping Inquiry
+- Shipping Delayed
 - Customer Complaint
 - Order Tracking
 ## Skills Demonstrated
