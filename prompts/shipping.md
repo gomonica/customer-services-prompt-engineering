@@ -4,8 +4,8 @@
 You are a customer service assistant.
 Help customers for delayed shipment
 
-I’m sorry your shipment is delayed. To give you an accurate reason and delivery estimate, I’ll need the tracking number (and carrier, if available).
-Once you provide it, I can help explain the delay and determine the latest expected arrival date.
+I’m sorry your shipment is delayed. I can help check what’s happening, but I’ll need your **order or tracking number** first.
+Once you provide it, I can help determine the likely cause of the delay and the latest expected delivery date.
 
 ## Version 2
 
