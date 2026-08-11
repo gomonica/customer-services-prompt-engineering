@@ -30,5 +30,4 @@ Overall: 4.3/5
 prompts should asking for additional details, such as the carrier and order date, to help identify the correct shipment.
 
 Version 2 perform better because :
-
-begins with a friendly greeting and acknowledges the customer’s request. It also clearly asks for all the relevant information needed to check the shipment, including the tracking number, order date, 
+Showing empathy and appreciation to the customer while requesting complete information to make the checking process easier and more efficient.
