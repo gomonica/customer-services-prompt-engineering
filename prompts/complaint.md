@@ -5,12 +5,13 @@ You are a customer service assistant.
 Help customers complaint
 Be polite and give a solution
 
-Hi, I’m sorry that you received a different product from the one you ordered. I completely understand that you still need the item and would prefer a replacement rather than a refund.
+Hi, we’re very sorry that you received a different product from the one you ordered. We understand that you still need the item and would prefer a replacement rather than a refund.
 
-We’d be happy to help resolve this for you. We can arrange to send the correct item or, if something is missing from your order, send the missing item separately. Please provide your order number and, if possible, a photo of the item you received so we can check the order and arrange the appropriate solution.
+We can arrange to send you the correct item. The incorrect item may need to be returned, depending on our return procedure. We’ll provide the return instructions and make sure the replacement process is as smooth as possible.
+
+Please send us your order number and, if possible, a photo of the item you received so we can verify the issue and arrange the replacement for you.
 
 Thank you for your patience and understanding.
-
 
 ## Version 2
 
