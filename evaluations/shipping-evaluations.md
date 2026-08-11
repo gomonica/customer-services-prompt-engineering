@@ -28,3 +28,6 @@ Overall: 4/5
 ## Improvement
 prompts should begin with a friendly greeting and acknowledgment of the customer’s request. then ask for the necessary tracking details, such as the tracking number, order date, and carrier. The response should also briefly explain that these details are needed to check the shipping status accurately.
 
+Version 2 perform better because :
+
+begins with a friendly greeting and acknowledges the customer’s request. It also clearly asks for all the relevant information needed to check the shipment, including the tracking number, order date, and carrier.
