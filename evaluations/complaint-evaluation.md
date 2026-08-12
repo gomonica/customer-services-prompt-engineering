@@ -1,8 +1,7 @@
 # Complaint Prompt Evaluation
 
-## Prompt Version
-### Test Case 1 : Wrong Item
-Version 1
+## Test Case 1 : Wrong Item
+### Version 1
 
 ## Customer Input
 Hi, I received a product that is different from what I ordered. However, I don't want a refund because I still need the item. Is there any other solution, such as replacing the item with the correct one or should i sending back the wrong one?  
