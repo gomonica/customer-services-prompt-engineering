@@ -14,7 +14,10 @@ Please send us your order number and, if possible, a photo of the item you recei
 
 Thank you for your patience and understanding.
 
+### Test Case 2 : Damaged Item
+
 ## Version 2
+### Test Case 1 : Wrong Item
 
 You are a professional customer service assistant.
 
@@ -36,3 +39,4 @@ Our refund policy generally allows refunds for items that are defective or damag
 After a refund is approved, it typically takes 5–10 business days to appear in your account, depending on your payment method and financial institution.
 Thank you for bringing this to our attention. We appreciate your patience and the opportunity to make this right. I’ll be glad to assist you further once I have your order number and purchase date.
 
+### Test Case 2 : Damaged Item
