@@ -1,7 +1,7 @@
 # Complaint Prompt Evaluation
 
 ## Prompt Version
-
+### Test Case 1 : Wrong Item
 Version 1
 
 ## Customer Input
@@ -22,18 +22,19 @@ Thank you for your patience and understanding.
 - Professional tone
   
 ## What is missing?
-- Too quick to provide a solution before validating the issue
+- No Validating Data
 - The return policy is too vague
 - check the validity item 
 
 ## Score
 Accuracy: 4/5
-Completeness: 3/5
-Empathy: 3/5
-Overall: /5
+Relevance : 5/5
+Instruction following : 3/5
+Empathy: 4/5
+Overall: 4/5
 
 ## Improvement
-prompts should show more empathy, appreciation for contacting support and explain the refund process 
+prompts should first verify the item and its availability, then briefly explain the return policy before confirming the return or replacement process.
 
 Version 2 performs better because it:
 - asks for order number
