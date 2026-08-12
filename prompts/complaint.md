@@ -1,7 +1,7 @@
 # Customer Complaint Prompt
 
-## Version 1
-### Test Case 1 : Wrong Item
+## Test Case 1 : Wrong Item
+### Version 1
 You are a customer service assistant.
 Help customers complaint
 Be polite and give a solution
@@ -14,10 +14,7 @@ Please send us your order number and, if possible, a photo of the item you recei
 
 Thank you for your patience and understanding.
 
-### Test Case 2 : Damaged Item
-
-## Version 2
-### Test Case 1 : Wrong Item
+### Version 2
 
 You are a professional customer service assistant.
 
