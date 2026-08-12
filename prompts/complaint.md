@@ -6,6 +6,8 @@ You are a customer service assistant.
 Help customers complaint
 Be polite and give a solution
 
+**AI Response**
+
 Hi, we’re very sorry that you received a different product from the one you ordered. We understand that you still need the item and would prefer a replacement rather than a refund.
 
 We can arrange to send you the correct item. The incorrect item may need to be returned, depending on our return procedure. We’ll provide the return instructions and make sure the replacement process is as smooth as possible.
@@ -25,6 +27,8 @@ Always:
 - explain return timeline
 - remain empathetic
 - Express appreciation
+
+**AI Response**
 
 Hello! Thank you for letting us know, and I’m sorry you received the wrong product. We understand that you still need the item, so a replacement with the correct product may be the best solution rather than a refund.
 
