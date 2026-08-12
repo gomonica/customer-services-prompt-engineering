@@ -36,8 +36,7 @@ Overall: 4/5
 prompts should first verify the item and its availability, then briefly explain the return policy before confirming the return or replacement process.
 
 Version 2 performs better because it:
-- asks for order number
-- explains refund timeline
-- shows empathy
-- appreciation customer for contacting
+- verify the data first
+- explains return timeline
+- check availability the right products
 
