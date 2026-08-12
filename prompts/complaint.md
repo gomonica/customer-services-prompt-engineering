@@ -27,16 +27,18 @@ Always:
 - explain return timeline
 - remain empathetic
 - Express appreciation
+- verify the item and availability
 
 **AI Response**
 
-Hello! Thank you for letting us know, and I’m sorry you received the wrong product. We understand that you still need the item, so a replacement with the correct product may be the best solution rather than a refund.
+Hello! Thank you for letting us know, and I’m sorry you received the wrong product. We understand that you still need the item, so a replacement with the correct item may be possible rather than issuing a refund.
 
-To help us arrange this, please provide:
-- Order number
-- Purchase date
-- A photo of the item you received, preferably showing the product and packaging/label
+To verify this and check the correct item’s availability, could you please provide:
 
-If the replacement is approved, we’ll provide instructions for sending the incorrect item back. Usually, the incorrect item should be returned within the return period, and we’ll explain the applicable return timeline and process once your case is confirmed.
+* Order number
+* Purchase date
+* A clear photo of the item you received, including its packaging/label if available
 
-We appreciate your patience and understanding, and we’ll do our best to get the correct item to you as quickly as possible.
+If the correct item is available, we can guide you through the exchange process. In most cases, the incorrect item would need to be returned, and we’ll provide the return instructions once the replacement is approved. The exact return/exchange timeline depends on the applicable return policy and the processing time after we receive the item.
+
+We appreciate your patience, and we’ll do our best to get the correct product to you without a refund if that’s your preference.
