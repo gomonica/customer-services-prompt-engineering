@@ -24,6 +24,7 @@ Always:
 - always provide answer accordance with company policy
 
 **AI Response**
+
 If you forgot your password, you can usually reset it by following these steps:
 
 1. Go to the sign-in page for the service.
