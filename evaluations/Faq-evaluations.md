@@ -32,4 +32,4 @@ Overall: 4/5
 prompts should give a security reminder by not ahare anything the code or else, give another option with number phone or call and closure with appropriate and helpfull solution
 
 Version 2 performs better because it:
-- 
+- gives clear step-by-step instructions, troubleshooting options, and a security reminder, making it more helpful and complete.
